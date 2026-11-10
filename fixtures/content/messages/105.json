@@ -1,0 +1,37 @@
+{
+  "id": 105,
+  "date": "2026-11-09T13:00:00.000Z",
+  "edited": null,
+  "album": null,
+  "text": "Shipping txt2blog\nIt runs in CI. The core is buildSite():\nconst posts = groupByDay(entries, timeZone);\nPlot twist: there is no server. Code lives on GitHub.\n\nThis is escaped, not run: <script>alert(1)</script>",
+  "entities": [
+    {
+      "type": "bold",
+      "offset": 0,
+      "length": 17
+    },
+    {
+      "type": "code",
+      "offset": 45,
+      "length": 11
+    },
+    {
+      "type": "pre",
+      "offset": 58,
+      "length": 44,
+      "language": "ts"
+    },
+    {
+      "type": "spoiler",
+      "offset": 115,
+      "length": 18
+    },
+    {
+      "type": "text_link",
+      "offset": 146,
+      "length": 9,
+      "url": "https://github.com/henryzlo/txt2blog"
+    }
+  ],
+  "image": null
+}

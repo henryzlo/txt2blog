@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# content/ is the blog's data: it IS committed (by CI).
+
+# Claude Code worktrees live under .claude/ in the main checkout
+.claude/worktrees/
