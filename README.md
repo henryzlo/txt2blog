@@ -85,7 +85,7 @@ CI commits to `main`, so branch protection on `main` must let GitHub Actions pus
 | --- | --- | --- | --- |
 | `TELEGRAM_BOT_TOKEN` | collect | | Repository **secret**. |
 | `TELEGRAM_OWNER_ID` | collect | | Your numeric user ID. |
-| `BLOG_TITLE` | build | `txt2blog` | |
+| `BLOG_TITLE` | build | `hudjack blog` | Shown in the header and browser tab. |
 | `BLOG_TIMEZONE` | build | `America/New_York` in CI, `UTC` locally | IANA zone used to split days. |
 | `CONTENT_DIR` | both | `content` | |
 | `OUT_DIR` | build | `dist` | Wiped on every build. |

@@ -5,7 +5,7 @@ import { buildSite } from "../src/build.ts";
 const result = await buildSite({
   contentDir: "fixtures/content",
   outDir: "dist",
-  site: { title: "txt2blog preview", timeZone: "America/New_York" },
+  site: { title: "hudjack blog", timeZone: "America/New_York" },
 });
 
 console.log(`Built ${result.posts} sample posts into dist/ — open dist/index.html`);

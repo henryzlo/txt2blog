@@ -35,7 +35,7 @@ export function loadBuildConfig(env: Env): BuildConfig {
     throw new Error(`BLOG_TIMEZONE "${timeZone}" is not a valid IANA time zone`);
   }
   return {
-    title: get("BLOG_TITLE") ?? "txt2blog",
+    title: get("BLOG_TITLE") ?? "hudjack blog",
     timeZone,
     contentDir: get("CONTENT_DIR") ?? "content",
     outDir: get("OUT_DIR") ?? "dist",

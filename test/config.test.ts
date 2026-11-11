@@ -17,7 +17,7 @@ test("collect needs a token and a numeric owner ID", () => {
 
 test("build needs no secrets and treats empty strings as unset", () => {
   const config = loadBuildConfig({ BLOG_TITLE: "", BLOG_TIMEZONE: "" });
-  assert.deepEqual(config, { title: "txt2blog", timeZone: "UTC", contentDir: "content", outDir: "dist" });
+  assert.deepEqual(config, { title: "hudjack blog", timeZone: "UTC", contentDir: "content", outDir: "dist" });
 });
 
 test("build rejects unknown time zones", () => {
