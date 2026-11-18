@@ -1,0 +1,9 @@
+{
+  "id": 24,
+  "date": "2026-11-18T13:47:39.000Z",
+  "edited": null,
+  "album": null,
+  "text": "So the plan is to use this box, run armbian on it, as the device.  Programming / Claude code whatever runs on laptop instead \n\nThey will communicate via ssh\n\nI'll need to figure out how / if the laptop should see the video output of the box (we'll call it hudjack for now)",
+  "entities": [],
+  "image": null
+}

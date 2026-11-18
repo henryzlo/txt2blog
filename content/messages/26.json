@@ -1,0 +1,9 @@
+{
+  "id": 26,
+  "date": "2026-11-18T13:49:46.000Z",
+  "edited": null,
+  "album": null,
+  "text": "The orange pi 5 ultra has HDMI input.  So theoretically it can replace the capture card and compositor.  Simplifying hudjack v2 to \n\nNintendo ->\nHudjack ->\nTV\n\nFor dev I'll still want laptop connection though\n\nOf course the risk here is latency",
+  "entities": [],
+  "image": null
+}

@@ -1,0 +1,9 @@
+{
+  "id": 27,
+  "date": "2026-11-18T13:51:04.000Z",
+  "edited": null,
+  "album": null,
+  "text": "If latency is bearable and doesn't fluctuate with system load too bad, then I'll just keep this simplified setup for now\n\nEventually I think we want the HDMI signal to pass through the box no matter what.  Not slowed down, not dependent on power.  So we can play even if hudjack/liminal crashes.  Keep this in mind for v4",
+  "entities": [],
+  "image": null
+}
